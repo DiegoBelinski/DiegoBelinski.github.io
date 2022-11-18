@@ -1,0 +1,27 @@
+#Menu-suspenso {
+    background-color: black;
+    text-align: center;
+}
+
+#Menu-suspenso li {
+       display:inline-block;
+       color: white;
+       font-style: italic;
+       padding: 10px;
+}
+
+
+body{
+    background-image:url(/Images/FundoPreto.jpg);
+}
+
+h1{
+    color: white;
+    margin-left: 30px;
+}
+
+img.foto1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
