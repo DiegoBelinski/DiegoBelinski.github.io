@@ -1,18 +1,26 @@
-#Menu-suspenso {
-    background-color: black;
-    text-align: center;
+
+#linha1{
+    color: white;
+    width: 30%;
+    padding: 15%;
+    line-height: 120%;
 }
 
-#Menu-suspenso li {
-       display:inline-block;
-       color: white;
-       font-style: italic;
-       padding: 10px;
+
+
+img{
+    padding: 30px 70px 90px 70px;
+    position: absolute;
+    width:80%;
+    top: 10px;  
+    left: 700px;
+    width: 650px;
+    margin: auto;
 }
 
 
 body{
-    background-image:url(/Images/FundoPreto.jpg);
+    background-color: black;
 }
 
 h1{
@@ -21,7 +29,15 @@ h1{
 }
 
 img.foto1{
+    border-radius: 10px 20px 30px 40px;
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right:0%;
+}
+
+.linha3{
+    color: darkred;
+    font-weight: bold;
+    font-size: large;
+    
 }
