@@ -2,7 +2,7 @@ img{
     position:absolute;
     top: 120px;
     left: 730px;
-    width: 600px;
+    width: 650px;
     margin: auto;
     max-width: 50%;
 }
@@ -61,4 +61,17 @@ a:hover{
 
 ul{
     color: white;
+}
+
+#back{
+    margin-top: 0%;
+    
+}
+
+button{
+    color: black;
+    background-color: rgb(73, 73, 73);
+    box-shadow: none;
+    text-shadow: none;
+    border-radius: 30px;
 }
